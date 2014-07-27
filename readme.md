@@ -86,7 +86,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [debug](https://github.com/visionmedia/debug) - Tiny debugging utility.
 - [jstrace](https://github.com/jstrace/jstrace) - Dynamic tracing for JavaScript, similar to dtrace, ktap etc.
 - [TraceGL](https://github.com/traceglMPL/tracegl) - Transforms your JavaScript, injecting monitoring code that produces a log of everything that happens.
-
+- [livepool](https://github.com/rehorn/livepool) - Fiddler like cross platform debugging proxy for web developers base on NodeJS
 
 ### Logging
 
